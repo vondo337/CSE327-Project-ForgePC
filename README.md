@@ -6,7 +6,7 @@ ForgePC
 - Ahmed Ishmam Arefin (2322035642)
 - Nurul Wahab (2411377042)
 
-  # ForgePC  
+# ForgePC  
 ### The Autonomous Computational Architect
 
 ## Overview
