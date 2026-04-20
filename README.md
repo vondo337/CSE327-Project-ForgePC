@@ -46,7 +46,7 @@ ForgePC integrates with local retailers to:
 **Supported vendors:**
 - Star Tech  
 - Ryans  
-- Computer Mania  
+- Techland  
 
 ---
 
