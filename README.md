@@ -1,5 +1,5 @@
 # CSE327-Project
-Soon
+ForgePC
 ## Group Members
 - Mahir Ahmed (2232069642)
 - Hasibul Kabir (2311665042)
